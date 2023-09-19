@@ -1,5 +1,17 @@
 ﻿  tutorial.cpp
   title.cpp
+  sound.cpp
+  result.cpp
+  ranking.cpp
+  pause.cpp
+  main.cpp
+c:\users\student\desktop\hakkason2023.9\hakkason000\main.cpp(45): warning C4100: 'lpCmdLine': 引数は関数の本体部で 1 度も参照されません。
+c:\users\student\desktop\hakkason2023.9\hakkason000\main.cpp(45): warning C4100: 'hInstancePrev': 引数は関数の本体部で 1 度も参照されません。
+  input.cpp
+  game.cpp
+  fade.cpp
+  effect.cpp
+  bg.cpp
   コードを生成中...
-  Hakkason000.vcxproj -> C:\Users\student\Desktop\Hakkason000\Debug\Hakkason000.exe
-  Hakkason000.vcxproj -> C:\Users\student\Desktop\Hakkason000\Debug\Hakkason000.pdb (Full PDB)
+  Hakkason000.vcxproj -> C:\Users\student\Desktop\HAKKASON2023.9\Hakkason000\Debug\Hakkason000.exe
+  Hakkason000.vcxproj -> C:\Users\student\Desktop\HAKKASON2023.9\Hakkason000\Debug\Hakkason000.pdb (Full PDB)

@@ -103,7 +103,8 @@ void UpdateTitle()
 	if (pFade == FADE_NONE)
 	{
 		//Œˆ’èƒL[(ENTER)‚ª‰Ÿ‚³‚ê‚½‚©‚Ç‚¤‚©
-		if (GetkeyboardTrigger(DIK_RETURN) == true || GetJoypadTrigger(JOYKEY_A) == true)
+		if (GetkeyboardTrigger(DIK_RETURN) ||
+			GetJoypadTrigger(JOYKEY_A))
 		{
 			SetFade(MODE_TUTORIAL);
 		}
